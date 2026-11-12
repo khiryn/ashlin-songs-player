@@ -1,0 +1,13 @@
+# Audio files - stored in AWS S3, not needed in GitHub
+audio/
+*.mp3
+*.wav
+*.mov
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
